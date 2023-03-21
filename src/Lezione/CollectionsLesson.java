@@ -25,5 +25,7 @@ public class CollectionsLesson {
         while (priorita.hasNext()) {
             System.out.println(priorita.next());
         }
+
+
     }
 }
